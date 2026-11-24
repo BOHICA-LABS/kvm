@@ -82,7 +82,7 @@
     "autoprefixer": "^10.4.23",
     "husky": "^9.1.7",
     "lint-staged": "^16.4.0",
-    "oxfmt": "^0.42.0",
+    "oxfmt": "^0.80.0",
     "oxlint": "^1.57.0",
     "oxlint-tsgolint": "^0.18.1",
     "postcss": "^8.5.6",
